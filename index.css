@@ -1,5 +1,5 @@
 body {
-    background-image: url('galeri/backimage.png');
+    background-image: galeri/backimage;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 99% 100%;
