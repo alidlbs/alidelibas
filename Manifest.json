@@ -1,14 +1,14 @@
 {
-   "background_color": "yok",
-   "description": "kişisel sayfa",
+   "background_color": "#2F3BA2",
+   "description": "DroidExtur kisisel sayfa",
    "dir": "ltr",
    "display": "standalone",
-   "name": "droidextur",
-   "orientation": "landscape-secondary",
+   "name": "DroidExtur",
+   "orientation": "any",
    "scope": "/",
-   "short_name": "droidextur",
+   "short_name": "DroidExtur",
    "start_url": "/",
-   "theme_color": "#3f2f65",
+   "theme_color": "#ffffff",
    "categories": [],
    "screenshots": [],
    "icons": [
@@ -18,19 +18,5 @@
        "sizes": "144x144"
      }
    ],
-   "shortcuts": [],
-   "ekran": "bağımsız",
-   "isim": "droidextur",
-   "yönlendirme": "herhangi biri",
-   "kapsam": "/",
-   "kategoriler": [],
-   "Ekran görüntüleri": [],
-   "simgeler": [
-     {
-       "src": "galeri/dd144x144.png",
-       "type": "resim/png",
-       "boyutlar": "144x144"
-     }
-   ],
-   "kısayollar": []
+   "shortcuts": []
  }
