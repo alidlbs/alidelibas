@@ -1,0 +1,21 @@
+{
+    "name": "droid",
+    "description": "ali delibas kişisel sayfası",
+    "short_name": "ali delibas",
+    "icons": [
+       {
+          "src": "galeri/dd192x192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+       },
+       {
+          "src": "galeri/dd512x512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+       }
+    ],
+    "start_url": "https://droidextur.github.io/alidelibas/",
+    "display": "standalone",
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF"
+ }
